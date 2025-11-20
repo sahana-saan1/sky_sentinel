@@ -1,0 +1,4 @@
+id,inclination,eccentricity,altitude,drift
+rogue1,120,0.5,1500,300
+rogue2,5,0.6,400,150
+rogue3,170,0.7,1800,450
